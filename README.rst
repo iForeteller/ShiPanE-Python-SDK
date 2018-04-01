@@ -77,7 +77,7 @@ Windows
 配置
 ^^^^
 
-- cmd 中运行：:code:`explorer %UserProfile%\\.shipane_sdk\\config`
+- cmd 中运行：:code:`explorer %UserProfile%\.shipane_sdk\config`
 - 修改 scheduler.ini 中的配置（建议使用Notepad++）
 
 运行
@@ -101,7 +101,7 @@ Windows
 日志
 ^^^^
 
-- cmd 中运行：:code:`explorer %UserProfile%\\AppData\\Local\\爱股网\\实盘易`
+- cmd 中运行：:code:`explorer %UserProfile%\AppData\Local\爱股网\实盘易`
 
 Mac/Linux
 ~~~~~~~~~
